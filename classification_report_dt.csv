@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support
+normal,0.94,0.96,0.95,326.0
+suspect,0.78,0.68,0.72,68.0
+pathological,0.88,0.94,0.91,32.0
+accuracy,0.91,0.91,0.91,0.91
+macro avg,0.87,0.86,0.86,426.0
+weighted avg,0.91,0.91,0.91,426.0
